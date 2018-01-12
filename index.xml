@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<workspace id="workspace" status="normal">
-    <book order_stamp="0" id="20180110121754362" key="7BC661F151D8E0917C7135F4104790ED" name="我的书[1]" time_stamp="1515557873" status="0" code="2fcba07f6d73761e984b03b258795d9f" index="0">
-        <volume order_stamp="0" id="20180110121754362" key="D0916ED45240F08027E580102E30D2B6" name="默认分卷[1]" time_stamp="1515557873" status="0" code="2fcba07f6d73761e984b03b258795d9f" index="0">
-            <chapter order_stamp="0" id="20180110121754363" key="44415A13A95AD86A10A8D679B223687B" name="默认分章[1]" time_stamp="1515578908" status="0" code="482e744d5ceddded460e6514843f5f94" index="0"/>
+<workspace status="normal" id="workspace">
+    <book order_stamp="0" status="0" time_stamp="1515557873" name="我的书[1]" id="20180110121754362" index="0" key="7BC661F151D8E0917C7135F4104790ED" code="2fcba07f6d73761e984b03b258795d9f">
+        <volume order_stamp="0" status="0" time_stamp="1515557873" name="默认分卷[1]" id="20180110121754362" index="0" key="D0916ED45240F08027E580102E30D2B6" code="2fcba07f6d73761e984b03b258795d9f">
+            <chapter order_stamp="0" status="0" time_stamp="1515578908" name="默认分章[1]" id="20180110121754363" index="0" key="44415A13A95AD86A10A8D679B223687B" code="482e744d5ceddded460e6514843f5f94"/>
         </volume>
     </book>
-    <book order_stamp="1515636014" id="20180111100011251" key="8CDA67F1D15A4FD1A84590B46CF5A635" name="我的书[1][重命名-1515636014]" time_stamp="1515636010" status="0" code="2fcba07f6d73761e984b03b258795d9f" index="1">
-        <volume order_stamp="0" id="20180111100011251" key="DD681B4778ADD5C43E21B5C38F88E78F" name="默认分卷[1]" time_stamp="1515636010" status="0" code="2fcba07f6d73761e984b03b258795d9f" index="0">
-            <chapter order_stamp="0" id="20180111100011252" key="F2C1889CA2AEAF8D7F9929569189FE29" name="默认分章[1]" time_stamp="1515636010" status="0" code="2fcba07f6d73761e984b03b258795d9f" index="0"/>
+    <book order_stamp="1515636014" status="0" time_stamp="1515636010" name="我的书[1][重命名-1515636014]" id="20180111100011251" index="1" key="8CDA67F1D15A4FD1A84590B46CF5A635" code="2fcba07f6d73761e984b03b258795d9f">
+        <volume order_stamp="0" status="0" time_stamp="1515636010" name="默认分卷[1]" id="20180111100011251" index="0" key="DD681B4778ADD5C43E21B5C38F88E78F" code="2fcba07f6d73761e984b03b258795d9f">
+            <chapter order_stamp="0" status="0" time_stamp="1515636010" name="默认分章[1]" id="20180111100011252" index="0" key="F2C1889CA2AEAF8D7F9929569189FE29" code="2fcba07f6d73761e984b03b258795d9f"/>
         </volume>
     </book>
-    <book id="20180111100138206" key="A36E5CE456C0616C0F15F5BE0B8E9186" name="导入的文档" time_stamp="1515636098" status="1" index="2">
-        <volume id="20180111100138208" key="DC8667DC80EF079699C65487DC83745E" name="导入的卷" time_stamp="1515636098" status="1" index="0">
-            <chapter id="20180111100138210" key="D2D9ED3993F93562EE2646D7347850C6" name="index[1]" time_stamp="1515636098" status="1" index="0"/>
+    <book status="1" time_stamp="1515636098" name="导入的文档" id="20180111100138206" index="2" key="A36E5CE456C0616C0F15F5BE0B8E9186">
+        <volume status="1" time_stamp="1515636098" name="导入的卷" id="20180111100138208" index="0" key="DC8667DC80EF079699C65487DC83745E">
+            <chapter status="1" time_stamp="1515636098" name="index[1]" id="20180111100138210" index="0" key="D2D9ED3993F93562EE2646D7347850C6"/>
         </volume>
     </book>
 </workspace>
